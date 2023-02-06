@@ -6,7 +6,9 @@ A curated list of repos that I think are awesome. I try to link to other [awesom
 
 ## The awesome list
 
-- [Dark Skys](https://github.com/brandonmcclure/awesome-night-skys)
+- [Dark skies](https://github.com/brandonmcclure/awesome-dark-skies)
 - [Transit](https://github.com/CUTR-at-USF/awesome-transit)
 - [Homeschool](https://github.com/odewahn/awesome-homeschool)
 - [Urban and Regional Planning](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources)
+
+
